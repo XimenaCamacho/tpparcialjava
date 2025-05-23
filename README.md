@@ -1,20 +1,19 @@
 # tpparcialjava
-=====================================================================================================
-===== Entrega de la primera parte del proyecto final - Curso JAVA Talento Tech.======================
-=====================================================================================================
+
+ Entrega de la primera parte del proyecto final - Curso JAVA Talento Tech.
+
 Alumna: Ximena Camacho.
 Profesora: Gisele Milagros Gonzalez
 Instructora: Sofia Rodriguez Saa
 Fechaa entrega: 22/05/2025
 
-=====================================================================================================
+
 Objetivo general
-=====================================================================================================
+
 Diseñar una aplicación en Java que permita registrar, mostrar y gestionar productos, así como crear pedidos que involucren varios productos. El sistema deberá hacer uso de variables, operadores, colecciones (listas), POO (clases, objetos, encapsulamiento, herencia, polimorfismo), excepciones y organización de código en paquetes/módulos.
 
-=====================================================================================================
 Requerimientos
-=====================================================================================================
+
 *Ingreso de productos:
     -El sistema debe permitir agregar productos con la siguiente información mínima:
         -Nombre del producto (cadena de texto, por ejemplo "Café Premium").
@@ -55,9 +54,9 @@ Requerimientos
         -Listar pedidos (opcionales)
         -Salir
     -El menú se repetirá hasta que se elija la opción de Salir.
-=====================================================================================================
+
 Requerimientos técnicos 
-=====================================================================================================
+
 *Tipos de datos y variables
     -Emplear variables de tipo int (para cantidades e IDs), double (para precios), String (para nombres/descripciones), y boolean si fuera necesario.
     -Asegurate de usar operadores aritméticos, lógicos y relacionales en las funciones de cálculo y validación.
